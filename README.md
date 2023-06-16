@@ -1,4 +1,4 @@
-# Server-Client-apps-for-Etarkangaroo
+# Server-Client-apps-for-Etarkangaroo (windows only)
 ## Server
 
 To manage workfiles on server side use EtarkangarooServer.  
@@ -31,3 +31,4 @@ Usage:
 Example:
 EtarkangarooClient.exe -pool 127.0.0.1:8000 -d 0 -grid 44,64 -wi 300 -wmerge -min 10
 ```
+Purebasic v.5.31 required for compilation
